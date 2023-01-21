@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Es un repositorio creado para el PrepCourse-Henry
+Este proyecto es un prueba de un commit hacia github
